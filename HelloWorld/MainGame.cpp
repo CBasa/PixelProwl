@@ -3,7 +3,7 @@
 #include "Play.h"
 #include "GameUtilities.h"
 
-bool testMode = true;
+bool testMode = false;
 
 GameState game_state;
 
