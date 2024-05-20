@@ -16,9 +16,22 @@ The druids, masters of nature and technology, guide the player in their quest to
 3. ***Adaptive Gameplay***: Experience a rich, nonlinear gameplay experience where player choices and shapeshifting strategies dynamically shape the outcome of the adventure.
 <p align="center"> <img src="/.github/images/Game_Boss.gif"> </p>  
 
-<br />
+<br /> 
 
+## How to play
 
+### Download instructions
+**(PREREQUISITES: WINDOWS PC, VISUAL STUDIO)**
+1. Fork this repo and then clone it down your local machine
+2. Open the HelloWorld.sln file with Visual Studio
+3. Run the project (Ctrl + F5) to launch the game
+
+### Player Controls
+* 'A' or Left Arrow Key - Move left
+* 'D' or Right Arrow Key - Move right
+* Spacebar - Jump
+* 1, 2, 3, 4 - Transform/Shapeshift
+* Escape Key - Exit Game
 
 
 - - - -
